@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on develop code and computing skills
+- 🌱 I’m currently learning how to build a startup
+- :books: I'm currently a undergraduate student at Universidade Federal de São Carlos
+- 👯 I’m looking to collaborate on edtechs/startups
+- 🤔 I’m looking for help with code and interfaces in general
+- 📫 How to reach me: augusto.schmidt@estudante.ufscar.br
+
 <!--
 **Osstrinha/Osstrinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
