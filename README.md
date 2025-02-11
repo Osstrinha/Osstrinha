@@ -1,6 +1,6 @@
 # Hi there! I'm Augusto Schmidt   
 
-I am an undergraduate student at Universidade Federal de São Carlos, driven by a strong interest in software development and entrepreneurship. My focus is on continuously expanding my knowledge by exploring new technologies, frameworks, algorithms, and models. I strive to implement and experiment with a diverse range of methodologies, bridging theory with practical applications.
+I am an undergraduate student at __Universidade Federal de São Carlos__, driven by a strong interest in software development and entrepreneurship. My focus is on continuously expanding my knowledge by exploring new technologies, frameworks, algorithms, and models. I strive to implement and experiment with a diverse range of methodologies, bridging theory with practical applications.
 
 ## 🚀 Featured Projects  
 
